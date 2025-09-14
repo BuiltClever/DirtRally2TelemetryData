@@ -2,7 +2,7 @@
 // Dirty Rally 2 Get Telemetry data
 // ---------------------------------------------------------
 // Created by BuiltClever for our Telemetry Rally YouTube series at  https://www.youtube.com/@builtclever
-// Video featureing this code: 
+// Video featureing this code: https://www.youtube.com/watch?v=y54JsC7V1no
 // Video with Telemetry properties in full detail: https://www.youtube.com/watch?v=c9YiPMefTNY&pp=0gcJCckJAYcqIYzv
 // Video to set up config file in DR2: https://www.youtube.com/watch?v=Scy-xjmJ-kU
 // Web Site: http://www.builtClever.com
