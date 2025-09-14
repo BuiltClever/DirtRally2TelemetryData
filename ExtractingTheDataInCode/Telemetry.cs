@@ -2,7 +2,7 @@
 // Dirty Rally 2 Telemetry structure
 // ---------------------------------------------------------
 // Created by BuiltClever for our Telemetry Rally YouTube series at  https://www.youtube.com/@builtclever
-// Video featureing this code: https://youtu.be/y54JsC7V1no 
+// Video featureing this code: https://www.youtube.com/watch?v=y54JsC7V1no
 // Video to set up config file in DR2: https://www.youtube.com/watch?v=Scy-xjmJ-kU
 // Video with Telemetry properties in full detail: https://www.youtube.com/watch?v=c9YiPMefTNY&pp=0gcJCckJAYcqIYzv
 // Web Site: http://www.builtClever.com
