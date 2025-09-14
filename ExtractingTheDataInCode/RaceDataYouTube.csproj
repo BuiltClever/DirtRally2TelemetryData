@@ -7,5 +7,12 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
- 
+
+  <ItemGroup>
+    <Compile Include="Form1.cs" />
+    <Compile Include="Form1.Designer.cs" />
+    <Compile Include="Form1.resx" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Telemetry.cs" />
+  </ItemGroup>
 </Project>
