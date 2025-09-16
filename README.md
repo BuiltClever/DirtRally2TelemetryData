@@ -20,7 +20,9 @@ related video
       <img src="https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/blank1x1.png" width="600" height="1">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/Extracting the data in Code.webp" alt="video3" width="512" height="288">
+      <a href="https://www.youtube.com/watch?v=y54JsC7V1no">
+        <img src="https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/Extracting the data in Code.webp" alt="video3" width="512" height="288">
+      </a>
     </td>
   </tr>
 </table>
@@ -46,7 +48,9 @@ The following videos are from this series designed to help with this project
       <img src="https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/blank1x1.png" width="600" height="1">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/EnablingTelemetryData.webp" alt="video1" width="512" height="288"> 
+      <a href="https://www.youtube.com/watch?v=Scy-xjmJ-kU">
+        <img src="https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/EnablingTelemetryData.webp" alt="video1" width="512" height="288"> 
+      </a>
     </td>
   </tr>
 </table>
@@ -58,18 +62,19 @@ The following videos are from this series designed to help with this project
       <br>
       Full explainations of all the telemetry data properties<br>
       <ul>
-        <li>their exact purpose and meaning</li>
-        <li>their data type and possible ranges</li>
+        <li>Their exact purpose and meaning</li>
+        <li>Their data type and possible ranges</li>
         <li>How to effectively use them in practical applications</li>
       </ul>
-      <br>
       watch it here<br>
       https://www.youtube.com/watch?v=c9YiPMefTNY
-      <br><br>
+      <br>
       <img src="https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/blank1x1.png" width="600" height="1">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/TheCompleteMissingStructureGuide.webp" alt="video1" width="512" height="288"> 
+      <a href="https://www.youtube.com/watch?v=c9YiPMefTNY">
+        <img src="https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/TheCompleteMissingStructureGuide.webp" alt="video2" width="512" height="288"> 
+      </a>
     </td>
   </tr>
 </table>
