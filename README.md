@@ -60,11 +60,11 @@ The following videos are from this series designed to help with this project
       <ul>
         <li>their exact purpose and meaning</li>
         <li>their data type and possible ranges</li>
-        <li>ow to effectively use them in practical applications</li>
+        <li>How to effectively use them in practical applications</li>
       </ul>
       <br>
       watch it here<br>
-      https://www.youtube.com/watch?v=Scy-xjmJ-kU
+      https://www.youtube.com/watch?v=c9YiPMefTNY
       <br><br>
       <img src="https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/blank1x1.png" width="600" height="1">
     </td>
