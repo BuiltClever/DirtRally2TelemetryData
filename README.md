@@ -14,7 +14,7 @@ Code in Action: Telemetry Data Display<br><br>
 Video explaning this code
 ---
 > ### Extracting the data in Code
-> [![video3](https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/Extracting%20the%20data%20in%20Code12.webp)](https://www.youtube.com/watch?v=y54JsC7V1no)<br>
+> [![video3](https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/Extracting%20the%20data%20in%20Code2.webp)](https://www.youtube.com/watch?v=uAieWaLAxfE)<br>
 > Explains step by step how the code works and what pitfalls to watch out for
 > 
 > [Watch the video here!](https://www.youtube.com/watch?v=uAieWaLAxfE)
