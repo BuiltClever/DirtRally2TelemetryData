@@ -1,12 +1,21 @@
-# DirtRally2TelemetryData  
-[![BuiltClever logo](https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/BuiltCleverLogo3.png)](https://www.youtube.com/@builtClever) 
+# Dirt Rally 2 Telemetry Data  
+How to Extracting Data in code for our BuiltClever Dirt Rally 2 Youtube video
+
+[![BuiltClever logo](https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/BuiltCleverLogo3.png)](https://www.youtube.com/@builtclever) <br>
+[BuiltClever Youtube Channel](https://www.youtube.com/@builtclever) 
 
 This is an example from our **Telemetry Unleashed** YouTube series.  
 It provides sample code to help you start understanding how to read telemetry data from Dirt Rally 2.  
 The example retrieves values directly from the game and displays the raw data in labels on a form. <br>
 It covers the fundamental principles for getting started with telemetry data.  <br><br>
 
-Code in Action: Telemetry Data Display<br><br>
+If you find the code useful please subscribe to our Yourube channel. <br>
+This shows interest to keep us motivated to keep creating more content like this<br>
+[Subscribe here](https://www.youtube.com/@BuiltClever?sub_confirmation=1)
+
+<br>
+Code in Action: Telemetry Data Display<br>
+
 ![Screenshot](https://raw.githubusercontent.com/BuiltClever/SharedReadMeImages/main/images/ExtractingTheDataInCode_ScreenShot.webp)
 
 <br>
