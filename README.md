@@ -9,7 +9,7 @@ It provides sample code to help you start understanding how to read telemetry da
 The example retrieves values directly from the game and displays the raw data in labels on a form. <br>
 It covers the fundamental principles for getting started with telemetry data.  <br><br>
 
-If you find the code useful please subscribe to our Yourube channel. <br>
+If you find the code useful please subscribe to our YouTube channel. <br>
 This shows interest to keep us motivated to keep creating more content like this<br>
 [Subscribe here](https://www.youtube.com/@BuiltClever?sub_confirmation=1)
 
